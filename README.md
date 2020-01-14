@@ -1,0 +1,2 @@
+# stcore
+.net core api
