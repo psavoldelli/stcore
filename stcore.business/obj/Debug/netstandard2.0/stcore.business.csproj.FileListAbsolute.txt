@@ -1,0 +1,13 @@
+C:\Sources\stcore\stcore.business\bin\Debug\netstandard2.0\stcore.business.deps.json
+C:\Sources\stcore\stcore.business\bin\Debug\netstandard2.0\stcore.business.dll
+C:\Sources\stcore\stcore.business\bin\Debug\netstandard2.0\stcore.business.pdb
+C:\Sources\stcore\stcore.business\bin\Debug\netstandard2.0\stcore.model.dll
+C:\Sources\stcore\stcore.business\bin\Debug\netstandard2.0\stcore.repository.dll
+C:\Sources\stcore\stcore.business\bin\Debug\netstandard2.0\stcore.model.pdb
+C:\Sources\stcore\stcore.business\bin\Debug\netstandard2.0\stcore.repository.pdb
+C:\Sources\stcore\stcore.business\obj\Debug\netstandard2.0\stcore.business.csprojAssemblyReference.cache
+C:\Sources\stcore\stcore.business\obj\Debug\netstandard2.0\stcore.business.AssemblyInfoInputs.cache
+C:\Sources\stcore\stcore.business\obj\Debug\netstandard2.0\stcore.business.AssemblyInfo.cs
+C:\Sources\stcore\stcore.business\obj\Debug\netstandard2.0\stcore.business.csproj.CopyComplete
+C:\Sources\stcore\stcore.business\obj\Debug\netstandard2.0\stcore.business.dll
+C:\Sources\stcore\stcore.business\obj\Debug\netstandard2.0\stcore.business.pdb
