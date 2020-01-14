@@ -1,8 +1,0 @@
-C:\Sources\stcore\stcore.model\bin\Debug\netstandard2.0\stcore.model.deps.json
-C:\Sources\stcore\stcore.model\bin\Debug\netstandard2.0\stcore.model.dll
-C:\Sources\stcore\stcore.model\bin\Debug\netstandard2.0\stcore.model.pdb
-C:\Sources\stcore\stcore.model\obj\Debug\netstandard2.0\stcore.model.csprojAssemblyReference.cache
-C:\Sources\stcore\stcore.model\obj\Debug\netstandard2.0\stcore.model.AssemblyInfoInputs.cache
-C:\Sources\stcore\stcore.model\obj\Debug\netstandard2.0\stcore.model.AssemblyInfo.cs
-C:\Sources\stcore\stcore.model\obj\Debug\netstandard2.0\stcore.model.dll
-C:\Sources\stcore\stcore.model\obj\Debug\netstandard2.0\stcore.model.pdb
